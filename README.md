@@ -1,4 +1,4 @@
-### :cloud: hello :cloud:
+### hello
 i like offsec
 <!--
 **greeeentea/greeeentea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
